@@ -1,5 +1,5 @@
 {
-  "name": "com.google.firebase.analytics",
+  "name": "com.snorlax.firebase-analytics",
   "version": "8.4.0",
   "displayName": "Google Analytics",
   "keywords": [
@@ -16,6 +16,14 @@
   "description": "Get free and unlimited game and player analytics\n\nGoogle Analytics helps you understand and engage your players by revealing what actions they're taking inside your game, where they spend the most time, and why they churn. From acquisition to app usage, Google Analytics will give you insights to make better decisions about your game. You can even combine your analytics data with Google Ads to make sure you're running campaigns that deliver you high-quality players.",
   "unity": "2017.1",
   "dependencies": {
-    "com.google.firebase.app": "8.4.0"
+    "com.snorlax.firebase-app": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:snorluxe/firebase-analytics.git",
+    "directory": "com.snorlax.firebase-analytics"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@snorluxe"
   }
 }
