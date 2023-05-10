@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5647178bc2234ee9b462ee89aad60164
+guid: 67cad374db074610ababa725986ca55a
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-10.7.0
-- gvhp_exportpath-Firebase/Editor/FirebaseAnalytics_version-10.7.0_manifest.txt
+- gvh_version-11.0.0
+- gvhp_exportpath-Firebase/Editor/FirebaseAnalytics_version-11.0.0_manifest.txt
 - gvhp_manifestname-0Google Analytics
 - gvhp_manifestname-1FirebaseAnalytics
 timeCreated: 0

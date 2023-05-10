@@ -6,8 +6,8 @@ Assets/Firebase/Plugins/iOS/Firebase.Analytics.pdb
 Assets/Firebase/Plugins/x86_64/FirebaseCppAnalytics.bundle
 Assets/Firebase/Plugins/x86_64/FirebaseCppAnalytics.dll
 Assets/Firebase/Plugins/x86_64/FirebaseCppAnalytics.so
-Assets/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/10.7.0/firebase-analytics-unity-10.7.0.pom
-Assets/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/10.7.0/firebase-analytics-unity-10.7.0.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/11.0.0/firebase-analytics-unity-11.0.0.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/11.0.0/firebase-analytics-unity-11.0.0.srcaar
 Assets/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/maven-metadata.xml
 Assets/Plugins/iOS/Firebase/libFirebaseCppAnalytics.a
 Assets/Plugins/tvOS/Firebase/libFirebaseCppAnalytics.a
